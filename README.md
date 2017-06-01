@@ -74,8 +74,8 @@
     *   [pythonic code review](https://access.redhat.com/blogs/766093/posts/2802001)
     *   [이터레이터와 제네레이터](http://confluence.8percent.kr/mingrammer.com/translation-iterators-vs-generators)
     *   [python anti patterns](http://docs.quantifiedcode.com/python-anti-patterns/index.html)
-    *   [10 mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
-
+    *   [10 mistakes](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
+    
 *   Django
 
     *   [장고걸스튜토리얼](https://www.gitbook.com/book/djangogirlsseoul/tutorial/details)
