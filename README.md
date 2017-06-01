@@ -31,7 +31,7 @@
 
     *   [웹개발자의 흔한 10가지 실수](http://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
     *   [AMP project - get started](https://www.ampproject.org/ko/docs/get_started/create)
-    *   [바쁜 개발자들을 위한 rest 논문 >요약](https://blog.npcode.com/2017/03/02/바쁜-개발자들을-위한-rest-논문-요약/)
+    *   [바쁜 개발자들을 위한 rest 논문 요약](https://blog.npcode.com/2017/03/02/바쁜-개발자들을-위한-rest-논문-요약/)
 
 *   Javascript
 
@@ -54,7 +54,7 @@
 
 *   Linux
     *   [CLOSE_WAIT & TIME_WAIT 분석](http://tech.kakao.com/2016/04/21/closewait-timewait/)
-    *   [리>눅스 접근 권한, 특수 권한 설정 정리](http://www.haruair.com/blog/3711)
+    *   [리눅스 접근 권한, 특수 권한 설정 정리](http://www.haruair.com/blog/3711)
 
 *   PostgreSQL
 
@@ -67,7 +67,7 @@
     *   [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
     *   [10 awesome features of Python3](https://asmeurer.github.io/python3-presentation/slides.html#1)
     *   [awesome python](https://github.com/vinta/awesome-python/)
-    *   [파이썬을 여>행하는 히치하이커를 위한 안내서](http://python-guide-kr.readthedocs.io/ko/latest/)
+    *   [파이썬을 여행하는 히치하이커를 위한 안내서](http://python-guide-kr.readthedocs.io/ko/latest/)
     *   [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
     *   [파이썬 리스트 vs. 튜플](http://www.haruair.com/blog/3725)
     *   [이콜레모(박영록) - 파이썬](http://ecolemodev.wikinamu.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC)
@@ -88,7 +88,8 @@
 *   일하는 방식
 
     *   [복리의 비밀](http://agile.egloos.com/2854698)
-    *   [연](https://brunch.co.kr/@brunchflgu/98)[속적인 시간사용](https://brunch.co.kr/@brunchflgu/98)
+    *   [연속적인 시간사용](https://brunch.co.kr/@brunchflgu/98)
+    
 *   개발 방법론
     *   [12 Factors App](https://12factor.net/ko/)
     *   [프로덕트 스펙 문서 작성법](https://webuildproduct.com/%EC%8A%A4%ED%8E%99-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ee61a1fc294f#.mg1mlilj8)
