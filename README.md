@@ -1,5 +1,7 @@
 # awesome-eight
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 이 페이지는 8퍼센트 서비스를 만들어 가면서 함께 공유하고 싶은 글들을 모아두는 곳입니다.
 
 ## 읽어 보면 좋을 글들
